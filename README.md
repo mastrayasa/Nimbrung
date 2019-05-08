@@ -32,3 +32,9 @@ npm run test:e2e
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Credit
+- https://firebase.google.com/
+- https://bootstrap-vue.js.org/
+- https://www.npmjs.com/package/vue-sweetalert2
+- https://www.npmjs.com/package/vue-moment
